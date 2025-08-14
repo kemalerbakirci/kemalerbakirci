@@ -1,7 +1,5 @@
 # Kemal Erbakırcı
 
-![Profile Views](https://komarev.com/ghpvc/?username=kemalerbakirci&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
 **Senior Computer Science & Engineering student at Sabancı University**  
 **Passionate about:** IoT, embedded systems, autonomous systems, and real-time communication systems  
 📍 *Based in Istanbul, Türkiye*
